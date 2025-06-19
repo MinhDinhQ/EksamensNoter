@@ -1,0 +1,14 @@
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/bin/Debug/net8.0/BigONotationDemo
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/bin/Debug/net8.0/BigONotationDemo.deps.json
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/bin/Debug/net8.0/BigONotationDemo.runtimeconfig.json
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/bin/Debug/net8.0/BigONotationDemo.dll
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/bin/Debug/net8.0/BigONotationDemo.pdb
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/obj/Debug/net8.0/BigONotationDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/obj/Debug/net8.0/BigONotationDemo.AssemblyInfoInputs.cache
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/obj/Debug/net8.0/BigONotationDemo.AssemblyInfo.cs
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/obj/Debug/net8.0/BigONotationDemo.csproj.CoreCompileInputs.cache
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/obj/Debug/net8.0/BigONotationDemo.dll
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/obj/Debug/net8.0/refint/BigONotationDemo.dll
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/obj/Debug/net8.0/BigONotationDemo.pdb
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/obj/Debug/net8.0/BigONotationDemo.genruntimeconfig.cache
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/BigONotationDemo/obj/Debug/net8.0/ref/BigONotationDemo.dll

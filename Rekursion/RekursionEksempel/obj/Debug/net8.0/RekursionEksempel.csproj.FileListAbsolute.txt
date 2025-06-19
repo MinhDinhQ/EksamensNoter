@@ -1,0 +1,14 @@
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/bin/Debug/net8.0/RekursionEksempel
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/bin/Debug/net8.0/RekursionEksempel.deps.json
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/bin/Debug/net8.0/RekursionEksempel.runtimeconfig.json
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/bin/Debug/net8.0/RekursionEksempel.dll
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/bin/Debug/net8.0/RekursionEksempel.pdb
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/obj/Debug/net8.0/RekursionEksempel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/obj/Debug/net8.0/RekursionEksempel.AssemblyInfoInputs.cache
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/obj/Debug/net8.0/RekursionEksempel.AssemblyInfo.cs
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/obj/Debug/net8.0/RekursionEksempel.csproj.CoreCompileInputs.cache
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/obj/Debug/net8.0/RekursionEksempel.dll
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/obj/Debug/net8.0/refint/RekursionEksempel.dll
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/obj/Debug/net8.0/RekursionEksempel.pdb
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/obj/Debug/net8.0/RekursionEksempel.genruntimeconfig.cache
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/Rekursion/RekursionEksempel/obj/Debug/net8.0/ref/RekursionEksempel.dll

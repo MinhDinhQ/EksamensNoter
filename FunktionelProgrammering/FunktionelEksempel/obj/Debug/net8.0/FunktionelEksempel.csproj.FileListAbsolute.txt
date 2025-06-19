@@ -1,0 +1,14 @@
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/bin/Debug/net8.0/FunktionelEksempel
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/bin/Debug/net8.0/FunktionelEksempel.deps.json
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/bin/Debug/net8.0/FunktionelEksempel.runtimeconfig.json
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/bin/Debug/net8.0/FunktionelEksempel.dll
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/bin/Debug/net8.0/FunktionelEksempel.pdb
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/obj/Debug/net8.0/FunktionelEksempel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/obj/Debug/net8.0/FunktionelEksempel.AssemblyInfoInputs.cache
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/obj/Debug/net8.0/FunktionelEksempel.AssemblyInfo.cs
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/obj/Debug/net8.0/FunktionelEksempel.csproj.CoreCompileInputs.cache
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/obj/Debug/net8.0/FunktionelEksempel.dll
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/obj/Debug/net8.0/refint/FunktionelEksempel.dll
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/obj/Debug/net8.0/FunktionelEksempel.pdb
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/obj/Debug/net8.0/FunktionelEksempel.genruntimeconfig.cache
+/Users/minhdinh/Desktop/FORBEREDELSE SOFT/FunktionelProgrammering/FunktionelEksempel/obj/Debug/net8.0/ref/FunktionelEksempel.dll
